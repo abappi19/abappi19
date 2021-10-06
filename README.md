@@ -1,7 +1,7 @@
 # 👋 Hi, How are you?
-<p> I’m <b>H. Bappi</b></p>
+<p> I’m <b>H. Bappi</b> ![](https://visitor-badge.glitch.me/badge?page_id=hbappi)</p>
 
-![](https://visitor-badge.glitch.me/badge?page_id=hbappi)
+
 
 - 🎓 I'm currently in college
 - 👀 I’m interested in ![Java 7](https://img.shields.io/badge/Java-7-blue.svg) ![JavaScript](https://img.shields.io/badge/JavaScript-blue.svg) ![Kotlin](https://img.shields.io/badge/Kotlin-blue.svg) ![CSharp](https://img.shields.io/badge/C%23-blue.svg) ![Python 3](https://img.shields.io/badge/Python-3-blue.svg)
