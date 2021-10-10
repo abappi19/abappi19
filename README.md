@@ -8,11 +8,15 @@ I’m <b>H. Bappi</b>
 - 🎓 I'm currently in college
 
 
+- JOB STATUS 
+   - চাকরি আমি জীবনে একটাও করি নাই
+   - আমারে কেউ চয়েস করে না
+
+
+
 - 👀 Operating System I am using right now ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)  ![haha](https://img.shields.io/badge/Intel-Core_i5_6th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
  
 - Mobile OS ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-
-
 
 
 - 🏅 I've experience on ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Java ](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -23,10 +27,6 @@ I’m <b>H. Bappi</b>
 
 - IDE I use ![Vs Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
-
-- JOB STATUS 
-   - চাকরি আমি জীবনে একটাও করি নাই
-   - আমারে কেউ চয়েস করে না
 
 
 - 📫 How to reach me
