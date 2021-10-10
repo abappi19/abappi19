@@ -30,15 +30,6 @@ I’m <b>H. Bappi</b>
     - [**Twitter**](https://twitter.com/efortshub)
     - [**Email**](mailto:contact.efortshub@gmail.com)
 
-![H. Bappi's GitHub Stat's](https://github-readme-stats.vercel.app/api?username=hbappi&include_all_commits=true)
-
-![H. Bappi's Top Language's](https://github-readme-stats.vercel.app/api/top-langs/?username=hbappi)
-
-![H. Bappi's Streak States](https://github-readme-streak-stats.herokuapp.com/?user=hbappi)
-
-
-
-
 
 - 📫 My Organization's info
     - Name: eFortsHub
@@ -53,3 +44,14 @@ I’m <b>H. Bappi</b>
     - [**Instagram**](https://www.instagram.com/efortshub)
     - [**Facebook Page**](https://www.facebook.com/eFortsHub)
     - [**YouTube**](https://www.youtube.com/channel/UCaehDsTiUtXSaaT-6f4H6VA)
+
+![H. Bappi's GitHub Stat's](https://github-readme-stats.vercel.app/api?username=hbappi&include_all_commits=true)
+
+![H. Bappi's Top Language's](https://github-readme-stats.vercel.app/api/top-langs/?username=hbappi)
+
+![H. Bappi's Streak States](https://github-readme-streak-stats.herokuapp.com/?user=hbappi)
+
+
+
+
+
