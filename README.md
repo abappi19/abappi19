@@ -24,6 +24,11 @@ I’m <b>H. Bappi</b>
 - IDE I use ![Vs Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
 
+- JOB STATUS 
+   - চাকরি আমি জীবনে একটাও করি নাই
+   - আমারে কেউ চয়েস করে না
+
+
 - 📫 How to reach me
     - [**Facebook**](https://www.facebook.com/h.bappi.hp)
     - [**Instagram**](https://instagram.com/efortshub)
