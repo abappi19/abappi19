@@ -32,7 +32,7 @@ I’m <b>H. Bappi</b>
     - [**Facebook**](https://www.facebook.com/h.bappi.hp)
     - [**Instagram**](https://instagram.com/efortshub)
     - [**Twitter**](https://twitter.com/efortshub)
-    - [**LinkedIn**](https://www.linkedin.com/hbappi)
+    - [**LinkedIn**](https://www.linkedin.com/in/hbappi)
     - [**Email**](mailto:contact.efortshub@gmail.com)
 
 
