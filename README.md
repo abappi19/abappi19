@@ -5,7 +5,10 @@ I’m <b>H. Bappi</b>
 
 
 
-- 🎓 I'm currently in college
+- 🎓 I'm currently in college (class 12) [Higher Secondary]
+
+- COVID 19 STATUS:
+   - Vaccinated by: Pfizer 
 
 
 - JOB STATUS 
