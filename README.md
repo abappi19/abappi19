@@ -5,7 +5,7 @@ I’m <b>H. Bappi</b>
 
 
 
-- 🎓 I'm currently in Diploma in Computer Science (Moulvi Bazar Polytecnic Institute).
+- 🎓 I'm currently in Diploma in Computer Science.
 - Education Background:
    - S.S.C 2019
    - H.S.C 2021
