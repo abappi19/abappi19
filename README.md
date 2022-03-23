@@ -35,10 +35,11 @@ I’m <b>H. Bappi</b>
 
 
 - 📫 How to reach me
+    - [**Google Developer**](https://g.dev/hbappi)
+    - [**LinkedIn**](https://www.linkedin.com/in/hbappi)
     - [**Facebook**](https://www.facebook.com/h.bappi.hp)
     - [**Instagram**](https://instagram.com/efortshub)
     - [**Twitter**](https://twitter.com/efortshub)
-    - [**LinkedIn**](https://www.linkedin.com/in/hbappi)
     - [**Email**](mailto:contact.efortshub@gmail.com)
 
 
