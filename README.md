@@ -34,6 +34,16 @@ I’m <b>H. Bappi</b>
 
 
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hbappi" alt="hbappi" /></a> </p>
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hbappi&show_icons=true&locale=en" alt="hbappi" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hbappi&show_icons=true&include_all_commits=true&locale=en" alt="hbappi" /></p>
+
+![H. Bappi's Streak States](https://github-readme-streak-stats.herokuapp.com/?user=hbappi)
+
+
 - 📫 How to reach me
     - [**Google Developer**](https://g.dev/hbappi)
     - [**LinkedIn**](https://www.linkedin.com/in/hbappi)
@@ -58,12 +68,6 @@ I’m <b>H. Bappi</b>
     - [**Instagram**](https://www.instagram.com/efortshub)
     - [**Facebook Page**](https://www.facebook.com/eFortsHub)
     - [**YouTube**](https://www.youtube.com/channel/UCaehDsTiUtXSaaT-6f4H6VA)
-
-![H. Bappi's GitHub Stat's](https://github-readme-stats.vercel.app/api?username=hbappi&include_all_commits=true)
-
-![H. Bappi's Top Language's](https://github-readme-stats.vercel.app/api/top-langs/?username=hbappi)
-
-![H. Bappi's Streak States](https://github-readme-streak-stats.herokuapp.com/?user=hbappi)
 
 
 
