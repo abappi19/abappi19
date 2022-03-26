@@ -34,7 +34,8 @@ I’m <b>H. Bappi</b>
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hbappi" alt="hbappi" /></a> </p>
+[![H. Bappi](https://github-profile-trophy.vercel.app/?username=hbappi&theme=onedark)](https://github.com/hbappi)
+
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hbappi&show_icons=true&locale=en" alt="hbappi" /></p>
