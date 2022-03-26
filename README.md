@@ -36,13 +36,15 @@ I’m <b>H. Bappi</b>
 <p><img align="right" src="https://github-profile-trophy.vercel.app/?username=hbappi&theme=onedark&row=8&column=1" alt="hbappi" /></p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hbappi&show_icons=true&locale=en" alt="hbappi" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hbappi&show_icons=true&locale=en&theme=radical&langs_count=8" alt="hbappi" /></p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=hbappi&show_icons=true&include_all_commits=true&locale=en" alt="hbappi" /></p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=hbappi&show_icons=true&theme=radical&include_all_commits=true&locale=en" alt="hbappi" /></p>
 
-![H. Bappi's Streak States](https://github-readme-streak-stats.herokuapp.com/?user=hbappi)
+![H. Bappi's Streak States](https://github-readme-streak-stats.herokuapp.com/?user=hbappi&theme=radical)
+
+[![H.Bappi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hbappi)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
