@@ -34,7 +34,7 @@ I’m <b>H. Bappi</b>
 
 
 
-[![H. Bappi](https://github-profile-trophy.vercel.app/?username=hbappi&theme=onedark)](https://github.com/hbappi)
+[![H. Bappi](https://github-profile-trophy.vercel.app/?username=hbappi&theme=onedark&row=2&column=7)](https://github.com/hbappi)
 
 
 
