@@ -1,6 +1,6 @@
 # Assalamu Alaikum, How are you?
 
-![](https://visitor-badge.glitch.me/badge?page_id=hbappi)
+![](https://visitor-badge.glitch.me/badge?page_id=hbappi) [![wakatime](https://wakatime.com/badge/user/cb82e44f-1307-4fe6-8653-ef574390e173.svg)](https://wakatime.com/@cb82e44f-1307-4fe6-8653-ef574390e173)
 
 I’m <b>H. Bappi</b> 
 
