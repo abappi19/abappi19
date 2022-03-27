@@ -33,18 +33,20 @@ I’m <b>H. Bappi</b>
 - IDE I use ![Vs Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white) 
 
 
-<p><img align="right" src="https://github-profile-trophy.vercel.app/?username=hbappi&theme=onedark&row=18&column=1" alt="hbappi" /></p>
+<p><img align="right" src="https://github-profile-trophy.vercel.app/?username=hbappi&theme=radical&count_private=true&show_owner=true&row=18&column=1" alt="hbappi" /></p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hbappi&show_icons=true&locale=en&theme=radical&langs_count=8" alt="hbappi" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hbappi&count_private=true&show_owner=true&show_icons=true&locale=en&theme=radical&langs_count=8" alt="hbappi" /></p>
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=hbappi&show_icons=true&theme=radical&include_all_commits=true&locale=en" alt="hbappi" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=hbappi&show_icons=true&theme=radical&count_private=true&show_owner=true&include_all_commits=true&locale=en" alt="hbappi" /></p>
 
 ![H. Bappi's Streak States](https://github-readme-streak-stats.herokuapp.com/?user=hbappi&theme=radical)
 
-[![H.Bappi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hbappi&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![H.Bappi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hbappi&count_private=true&show_owner=true&theme=radical)
+
+
 
 
 
