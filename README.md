@@ -69,6 +69,11 @@ I’m <b>H. Bappi</b>
 
 
 
+
+<p align="center">
+<a href="https://twitter.com/efortshub"><img alight="center" src="https://github-readme-twitter.gazf.vercel.app/api?id=efortshub&amp;layout=wide" alt="github-readme-twitter"></a>
+</p>
+
 <p><img width="100%" align="center" src="https://github-profile-trophy.vercel.app/?username=hbappi&theme=radical&count_private=true&show_owner=true&row=18&column=7" alt="hbappi" /></p>
 
 
@@ -86,12 +91,8 @@ I’m <b>H. Bappi</b>
 
 
 
-<p align="center">
-<a href="https://github.com/hbappi"><img width="68%" align="left" src="https://activity-graph.herokuapp.com/graph?username=hbappi&theme=dracula"></img></a>
-<a href="https://twitter.com/efortshub"><img alight="right" width="30%" src="https://github-readme-twitter.gazf.vercel.app/api?id=efortshub&amp;" alt="github-readme-twitter"></a>
-</p>
-
-													
+<a href="https://github.com/hbappi"><img width="100%%" align="center" src="https://activity-graph.herokuapp.com/graph?username=hbappi&theme=dracula"></img></a>
+											
 
 <h2 align="center">Reach Me ☕</h2></a>
 <p align="center">
@@ -120,7 +121,6 @@ I’m <b>H. Bappi</b>
 	<a href="mailto:contact.efortshub@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/email.png" alt="E-Mail"/></a>
    <a href="https://join.skype.com/invite/dgqzetIknkyJ"><img src="https://img.icons8.com/bubbles/50/000000/skype.png" alt="Skype"/></a>
 </p>
-
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&width=100%&section=footer"/>
 </p>
