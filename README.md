@@ -45,7 +45,6 @@ I’m <b>H. Bappi</b>
 <p width="100%">
 
 <p><img align="center" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=hbappi&count_private=true&show_owner=true&show_icons=true&locale=en&theme=radical&langs_count=28&layout=compact" alt="hbappi" /><img align="right" width="53%" height="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=hbappi&count_private=true&show_owner=true&theme=radical" alt="hbappi" /></p>
-<br />
 <p>
 	<img align="center" width="48%" src="https://github-readme-stats.vercel.app/api?username=hbappi&show_icons=true&theme=radical&count_private=true&show_owner=true&include_all_commits=true&locale=en" alt="hbappi" />
 	<img align="right" width="48%"  src="https://github-readme-streak-stats.herokuapp.com/?user=hbappi&theme=radical" alt="hbappi" />
