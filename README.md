@@ -1,7 +1,7 @@
 # Assalamu Alaikum, How are you?
 
 
-<p align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=hbappi" alt="" /> <img src="https://komarev.com/ghpvc/?username=hbappi&logoColor=white&color=red" alt="hbappi" />  <img src="https://wakatime.com/badge/user/cb82e44f-1307-4fe6-8653-ef574390e173.svg" alt="hbappi" /> <img
+<p align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=hbappi" alt="" /> <img src="https://wakatime.com/badge/user/cb82e44f-1307-4fe6-8653-ef574390e173.svg" alt="hbappi" /> <img
 src="https://img.shields.io/github/followers/hbappi?style=social" alt="hbappi" /> <img
 src="https://img.shields.io/github/last-commit/hbappi/hbappi" alt="hbappi" /> <img
 src="https://img.shields.io/twitter/follow/efortshub?label=Follow%20me&style=social" alt="efortshub" /> </p>
