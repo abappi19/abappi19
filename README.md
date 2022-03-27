@@ -1,6 +1,10 @@
 # Assalamu Alaikum, How are you?
 
-![](https://visitor-badge.glitch.me/badge?page_id=hbappi) [![wakatime](https://wakatime.com/badge/user/cb82e44f-1307-4fe6-8653-ef574390e173.svg)](https://wakatime.com/@cb82e44f-1307-4fe6-8653-ef574390e173)
+
+<p align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=hbappi" alt="" /> <img src="https://komarev.com/ghpvc/?username=hbappi&logoColor=white&color=red" alt="hbappi" />  <img src="https://wakatime.com/badge/user/cb82e44f-1307-4fe6-8653-ef574390e173.svg" alt="hbappi" /> <img
+src="https://img.shields.io/github/followers/hbappi?style=social" alt="hbappi" /> <img
+src="https://img.shields.io/github/last-commit/hbappi/hbappi" alt="hbappi" /> <img
+src="https://img.shields.io/twitter/follow/efortshub?label=Follow%20me&style=social" alt="efortshub" /> </p>
 
 I’m <b>H. Bappi</b> 
 
@@ -33,7 +37,6 @@ I’m <b>H. Bappi</b>
 - IDE I use ![Vs Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white) 
 
 
-
 ![source](https://user-images.githubusercontent.com/53597251/160263007-518d72bd-b772-40a6-a817-25b540cce80c.gif)
 
 
@@ -41,17 +44,17 @@ I’m <b>H. Bappi</b>
 <p><img width="100%" align="center" src="https://github-profile-trophy.vercel.app/?username=hbappi&theme=radical&count_private=true&show_owner=true&row=18&column=7" alt="hbappi" /></p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hbappi&count_private=true&show_owner=true&show_icons=true&locale=en&theme=radical&langs_count=8" alt="hbappi" /></p>
+<p align="left" height="max-content" width="100%">
+	<img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=hbappi&count_private=true&show_owner=true&show_icons=true&locale=en&theme=radical&langs_count=28&layout=compact" alt="hbappi" />
+	<img align="right" width="53%" height="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=hbappi&count_private=true&show_owner=true&theme=radical" alt="hbappi" />  
+	<br  />
+</p>
 
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=hbappi&show_icons=true&theme=radical&count_private=true&show_owner=true&include_all_commits=true&locale=en" alt="hbappi" /></p>
-
-![H. Bappi's Streak States](https://github-readme-streak-stats.herokuapp.com/?user=hbappi&theme=radical)
-
-![H.Bappi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hbappi&count_private=true&show_owner=true&theme=radical)
-
-
+<p align="left"  width="100%" style="margin-top="16px">
+	<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=hbappi&show_icons=true&theme=radical&count_private=true&show_owner=true&include_all_commits=true&locale=en" alt="hbappi" />
+	<img align="right" width="48%"  src="https://github-readme-streak-stats.herokuapp.com/?user=hbappi&theme=radical" alt="hbappi" />
+  <br  />
+</p>
 
 [![H.Bappi's github activity graph](https://activity-graph.herokuapp.com/graph?username=hbappi&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
