@@ -44,7 +44,7 @@ I’m <b>H. Bappi</b>
 
 ![H. Bappi's Streak States](https://github-readme-streak-stats.herokuapp.com/?user=hbappi&theme=radical)
 
-[![H.Bappi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hbappi)](https://github.com/anuraghazra/github-readme-stats)
+[![H.Bappi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hbappi&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
