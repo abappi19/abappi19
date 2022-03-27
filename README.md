@@ -39,23 +39,27 @@ I’m <b>H. Bappi</b>
 
 ![source](https://user-images.githubusercontent.com/53597251/160263007-518d72bd-b772-40a6-a817-25b540cce80c.gif)
 
-
-
 <p><img width="100%" align="center" src="https://github-profile-trophy.vercel.app/?username=hbappi&theme=radical&count_private=true&show_owner=true&row=18&column=7" alt="hbappi" /></p>
 
 
-<p align="left" height="max-content" width="100%">
-	<img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=hbappi&count_private=true&show_owner=true&show_icons=true&locale=en&theme=radical&langs_count=28&layout=compact" alt="hbappi" />
-	<img align="right" width="53%" height="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=hbappi&count_private=true&show_owner=true&theme=radical" alt="hbappi" />  
-	<br  />
-</p>
+<p width="100%">
 
-<p align="left"  width="100%" style="margin-top="16px">
-	<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=hbappi&show_icons=true&theme=radical&count_private=true&show_owner=true&include_all_commits=true&locale=en" alt="hbappi" />
+<p><img align="center" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=hbappi&count_private=true&show_owner=true&show_icons=true&locale=en&theme=radical&langs_count=28&layout=compact" alt="hbappi" /><img align="right" width="53%" height="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=hbappi&count_private=true&show_owner=true&theme=radical" alt="hbappi" /></p>
+<br />
+<p>
+	<img align="center" width="48%" src="https://github-readme-stats.vercel.app/api?username=hbappi&show_icons=true&theme=radical&count_private=true&show_owner=true&include_all_commits=true&locale=en" alt="hbappi" />
 	<img align="right" width="48%"  src="https://github-readme-streak-stats.herokuapp.com/?user=hbappi&theme=radical" alt="hbappi" />
-  <br  />
 </p>
 
+</p>
+    
+    
+  
+    
+																      
+																      
+																      
+																      
 [![H.Bappi's github activity graph](https://activity-graph.herokuapp.com/graph?username=hbappi&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <h2 align="center">Reach Me ☕</h2></a>
