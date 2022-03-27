@@ -28,13 +28,39 @@ I’m <b>H. Bappi</b>
 - Mobile OS ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 
-- 🏅 I've experience on ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![avaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)  ![Java ](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+- 🏅 I've experience on ![Android]() ![avaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)  ![Java ](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 - 👀 I’m interested in ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Java ](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black) 
 
 - 🌱 I’m currently learning ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 - IDE I use ![Vs Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white) 
+
+
+
+ <b>I have Experience in 🏅</b>
+<p align="center">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="hbappi" ><img/>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="hbappi" ><img/>
+<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="hbappi" ><img/>
+<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="hbappi" ><img/>
+<img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="hbappi" ><img/>
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="hbappi" ><img/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="hbappi" ><img/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="hbappi" ><img/>
+</p>
+ 
+	 Java    		Since 2018    		█████████████████████░░░░   75.91% 
+	 Android    		304 commits    		████████████░░░░░░░░░░░░░   47.8% 
+	 SQLite    		147 commits    		█████░░░░░░░░░░░░░░░░░░░░   23.11% 
+	 HTML     		52 commits     		██░░░░░░░░░░░░░░░░░░░░░░░   8.18%
+	 CSS      		52 commits     		██░░░░░░░░░░░░░░░░░░░░░░░   8.18%
+	 JavaScript     	52 commits     		██░░░░░░░░░░░░░░░░░░░░░░░   8.18%
+	 PHP      		52 commits     		██░░░░░░░░░░░░░░░░░░░░░░░   8.18%
+	 Node.Js      		52 commits     		██░░░░░░░░░░░░░░░░░░░░░░░   8.18%
+	 Electron      		52 commits     		██░░░░░░░░░░░░░░░░░░░░░░░   8.18%
+
+
 
 
 ![source](https://user-images.githubusercontent.com/53597251/160263007-518d72bd-b772-40a6-a817-25b540cce80c.gif)
@@ -60,6 +86,8 @@ I’m <b>H. Bappi</b>
 																      
 																      
 [![H.Bappi's github activity graph](https://activity-graph.herokuapp.com/graph?username=hbappi&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<p><a href="https://twitter.com/mokkapps"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=mokkapps&amp;layout=wide" alt="github-readme-twitter"></a></p>
 
 <h2 align="center">Reach Me ☕</h2></a>
 <p align="center">
