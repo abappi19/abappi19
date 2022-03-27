@@ -1,6 +1,6 @@
 # Assalamu Alaikum, How are you?
 
-![](https://visitor-badge.glitch.me/badge?page_id=hbappi) [![wakatime](https://wakatime.com/badge/user/cb82e44f-1307-4fe6-8653-ef574390e173.svg)](https://wakatime.com/@cb82e44f-1307-4fe6-8653-ef574390e173)
+![](https://visitor-badge.glitch.me/badge?page_id=hbappi) [![wakatime](https://wakatime.com/badge/user/cb82e44f-1307-4fe6-8653-ef574390e173.svg)](https://wakatime.com/@cb82e44f-1307-4fe6-8653-ef574390e173) 
 
 I’m <b>H. Bappi</b> 
 
@@ -46,10 +46,6 @@ I’m <b>H. Bappi</b>
 
 ![H.Bappi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hbappi&count_private=true&show_owner=true&theme=radical)
 
-
-
-
-
 - 📫 How to reach me
     - [**Google Developer**](https://g.dev/hbappi)
     - [**LinkedIn**](https://www.linkedin.com/in/hbappi)
@@ -79,3 +75,8 @@ I’m <b>H. Bappi</b>
 
 
 
+[![H.Bappi's github activity graph](https://activity-graph.herokuapp.com/graph?username=hbappi&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&width=100%&section=footer"/>
+</p>
