@@ -33,7 +33,7 @@ I’m <b>H. Bappi</b>
 - IDE I use ![Vs Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white) 
 
 
-<p><img align="right" src="https://github-profile-trophy.vercel.app/?username=hbappi&theme=onedark&row=8&column=1" alt="hbappi" /></p>
+<p><img align="right" src="https://github-profile-trophy.vercel.app/?username=hbappi&theme=onedark&row=18&column=1" alt="hbappi" /></p>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hbappi&show_icons=true&locale=en&theme=radical&langs_count=8" alt="hbappi" /></p>
