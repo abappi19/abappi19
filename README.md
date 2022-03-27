@@ -33,7 +33,12 @@ I’m <b>H. Bappi</b>
 - IDE I use ![Vs Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white) 
 
 
-<p><img align="right" src="https://github-profile-trophy.vercel.app/?username=hbappi&theme=radical&count_private=true&show_owner=true&row=18&column=1" alt="hbappi" /></p>
+
+![source](https://user-images.githubusercontent.com/53597251/160263007-518d72bd-b772-40a6-a817-25b540cce80c.gif)
+
+
+
+<p><img width="100%" align="center" src="https://github-profile-trophy.vercel.app/?username=hbappi&theme=radical&count_private=true&show_owner=true&row=18&column=7" alt="hbappi" /></p>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hbappi&count_private=true&show_owner=true&show_icons=true&locale=en&theme=radical&langs_count=8" alt="hbappi" /></p>
@@ -46,36 +51,37 @@ I’m <b>H. Bappi</b>
 
 ![H.Bappi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hbappi&count_private=true&show_owner=true&theme=radical)
 
-- 📫 How to reach me
-    - [**Google Developer**](https://g.dev/hbappi)
-    - [**LinkedIn**](https://www.linkedin.com/in/hbappi)
-    - [**Facebook**](https://www.facebook.com/h.bappi.hp)
-    - [**Instagram**](https://instagram.com/efortshub)
-    - [**Twitter**](https://twitter.com/efortshub)
-    - [**StackOverflow**](https://stackoverflow.com/users/12527080/efortshub)
-    - [**Email**](mailto:contact.efortshub@gmail.com)
-
-
-- 📫 My Organization's info
-    - Name: eFortsHub
-    - [**WebSite**](https://efortshub.com)
-    - [**Fiverr**](https://www.fiverr.com/efortshub)
-    - [**Freelancer**](https://www.freelancer.com/u/efortshub)
-    - [**UpWork**](https://www.upwork.com/freelancers/~01188d0fb269b51b7c)
-    - [**HackerRank**](https://www.hackerrank.com/eFortsHub)
-    - [**StackOverflow**](https://stackoverflow.com/users/12527080/efortshub)
-    - [**GitHub**](https://github.com/efortshub)
-    - [**LinkedIn**](https://www.linkedin.com/company/efortshub)
-    - [**Tumblr**](https://efortshub.tumblr.com)
-    - [**Instagram**](https://www.instagram.com/efortshub)
-    - [**Facebook Page**](https://www.facebook.com/eFortsHub)
-    - [**YouTube**](https://www.youtube.com/channel/UCaehDsTiUtXSaaT-6f4H6VA)
-
-
-
 
 
 [![H.Bappi's github activity graph](https://activity-graph.herokuapp.com/graph?username=hbappi&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<h2 align="center">Reach Me ☕</h2></a>
+<p align="center">
+	<a href="https://github.com/hbappi"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/hbappi"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.facebook.com/h.bappi.hp"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
+	<a href="https://g.dev/hbappi"><img src="https://img.icons8.com/bubbles/50/000000/google-logo.png" alt="Google"/></a>
+	<a href="mailto:contact.efortshub@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/email.png" alt="E-Mail"/></a>
+   <a href="https://join.skype.com/invite/dgqzetIknkyJ"><img src="https://img.icons8.com/bubbles/50/000000/skype.png" alt="Skype"/></a>
+</p>
+
+<h2 align="center">Organization 🏚️</h2></a>
+<p align="center">
+	<a href="https://efortshub.com"><img src="https://img.icons8.com/bubbles/50/000000/geography.png" alt="WebSite"/></a>
+	<a href="https://www.fiverr.com/efortshub"><img src="https://img.icons8.com/bubbles/50/000000/fiverr.png" alt="Fiverr"/></a>
+	<a href="https://www.upwork.com/freelancers/~01188d0fb269b51b7c"><img src="https://img.icons8.com/bubbles/50/000000/work.png" alt="UpWork"/></a>
+	<a href="https://www.freelancer.com/u/efortshub"><img src="https://img.icons8.com/bubbles/50/000000/workspace.png" alt="Freelancer"/></a>
+	<a href="https://www.hackerrank.com/eFortsHub"><img src="https://img.icons8.com/bubbles/50/000000/hacking.png" alt="HackerRank"/></a>
+	<a href="https://stackoverflow.com/users/12527080/efortshub"><img src="https://img.icons8.com/bubbles/50/000000/stack.png" alt="StackOverflow"/></a>
+	<a href="https://github.com/efortshub"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/company/efortshub"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://efortshub.tumblr.com"><img src="https://img.icons8.com/bubbles/50/000000/tumblr.png" alt="Tumblr"/></a>
+	<a href="https://www.instagram.com/efortshub"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+	<a href="https://www.facebook.com/eFortsHub"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
+	<a href="https://www.youtube.com/channel/UCaehDsTiUtXSaaT-6f4H6VA"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="YouTube"/></a>
+	<a href="mailto:contact.efortshub@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/email.png" alt="E-Mail"/></a>
+   <a href="https://join.skype.com/invite/dgqzetIknkyJ"><img src="https://img.icons8.com/bubbles/50/000000/skype.png" alt="Skype"/></a>
+</p>
 
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&width=100%&section=footer"/>
