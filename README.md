@@ -171,6 +171,7 @@ src="https://img.shields.io/twitter/follow/efortshub?label=Follow%20me&style=soc
 	<a href="https://www.linkedin.com/in/hbappi"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://www.facebook.com/h.bappi.hp"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
 	<a href="https://g.dev/hbappi"><img src="https://img.icons8.com/bubbles/50/000000/google-logo.png" alt="Google"/></a>
+	<a href="https://www.hackerrank.com/eFortsHub"><img src="https://img.icons8.com/bubbles/50/000000/hacking.png" alt="HackerRank"/></a>
 	<a href="mailto:contact.efortshub@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/email.png" alt="E-Mail"/></a>
    <a href="https://join.skype.com/invite/dgqzetIknkyJ"><img src="https://img.icons8.com/bubbles/50/000000/skype.png" alt="Skype"/></a>
 </p>
@@ -181,7 +182,6 @@ src="https://img.shields.io/twitter/follow/efortshub?label=Follow%20me&style=soc
 	<a href="https://www.fiverr.com/efortshub"><img src="https://img.icons8.com/bubbles/50/000000/fiverr.png" alt="Fiverr"/></a>
 	<a href="https://www.upwork.com/freelancers/~01188d0fb269b51b7c"><img src="https://img.icons8.com/bubbles/50/000000/work.png" alt="UpWork"/></a>
 	<a href="https://www.freelancer.com/u/efortshub"><img src="https://img.icons8.com/bubbles/50/000000/workspace.png" alt="Freelancer"/></a>
-	<a href="https://www.hackerrank.com/eFortsHub"><img src="https://img.icons8.com/bubbles/50/000000/hacking.png" alt="HackerRank"/></a>
 	<a href="https://stackoverflow.com/users/12527080/efortshub"><img src="https://img.icons8.com/bubbles/50/000000/stack.png" alt="StackOverflow"/></a>
 	<a href="https://github.com/efortshub"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/company/efortshub"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
