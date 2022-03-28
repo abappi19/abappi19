@@ -1,4 +1,4 @@
-# Assalamu Alaikum, How are you?
+<h1 align="center"> Assalamu Alaikum, How are you?</h1>
 
 
 <p align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=hbappi" alt="" /> <img src="https://wakatime.com/badge/user/cb82e44f-1307-4fe6-8653-ef574390e173.svg" alt="hbappi" /> <img
@@ -6,39 +6,63 @@ src="https://img.shields.io/github/followers/hbappi?style=social" alt="hbappi" /
 src="https://img.shields.io/github/last-commit/hbappi/hbappi" alt="hbappi" /> <img
 src="https://img.shields.io/twitter/follow/efortshub?label=Follow%20me&style=social" alt="efortshub" /> </p>
 
-I’m <b>H. Bappi</b> 
+
+```json
+	{
+	 "Name":{
+		   "name" :" Md. Asadujjaman Bappi ",
+		   "nickName" :" H. Bappi ",
+		   "surname" :" Addicted Programmer "
+		  },
+		  
+	 "Education":[
+	 		{
+			  "DEGREE": "S.S.C"
+			  "YEAR": "2019",
+			  "SECTION": "SCIENCE"
+			},	
+			{
+			  "DEGREE":"H.S.C"
+			  "YEAR": "2021",
+			  "SECTION": "HUMANITY"
+			}
+	 	      ]
+	}
+```
+
+```java
+	public Object covid_19_Status() {
+		return "Vaccinated by PFIZER";
+	}
+
+```
+```html
+	<b>Job Status:</b>
+		<h1>OPEN TO WORK</h1>
+```
+
+```javascript
+	function tech(){
+		const os = {
+			pc:	"Linux, Linux mint",
+			mobile:	"Android", "T9"
+		}
+		
+		const IDEs = {
+			Android Studio : ["Android", "Flutter", "SQLITE"],
+			Visual Studio Code : ["HTML", "CSS", "JAVASCRIPT", "JAVA", "PYTHON", "PHP", "NODE.JS", "FLUTTER", "ELECTRON"]
+		}
+	}
+
+```
 
 
-- 🎓 I'm currently in Diploma in Computer Science.
-- Education Background:
-   - S.S.C 2019
-   - H.S.C 2021
 
-- COVID 19 STATUS:
-   - Vaccinated by: Pfizer 
-
-
-- JOB STATUS 
-   - OPEN TO WORK
+![Programming Image](https://user-images.githubusercontent.com/53597251/160263007-518d72bd-b772-40a6-a817-25b540cce80c.gif)
 
 
 
-- 👀 Operating System I am using right now ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=blac)  ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)  ![haha](https://img.shields.io/badge/Intel-Core_i5_6th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
- 
-- Mobile OS ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-
-- 🌱 I’m currently learning ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-- IDE I use ![Vs Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white) 
-
-
-
-
-![source](https://user-images.githubusercontent.com/53597251/160263007-518d72bd-b772-40a6-a817-25b540cce80c.gif)
-
-
-
-# I have experience on 🏅
+<h2 align="center">I have experience on 🏅</h2>
 <p align="center">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="hbappi" ><img/>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="hbappi" ><img/>
@@ -48,43 +72,90 @@ I’m <b>H. Bappi</b>
 <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="hbappi" ><img/>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="hbappi" ><img/>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="hbappi" ><img/>
+<img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" alt="hbappi" ><img/>
 </p>
  
-```javascript
+```python
 	 Java    	Since 2018    	███████████████████░░░░░░   75.91% 
-	 Android    	Since 2018    	███████████████░░░░░░░░░░   62.8% 
+	 Android    	Since 2018    	███████████████░░░░░░░░░░   62.81% 
 	 SQLite    	Since 2019    	████████████████████░░░░░   78.11% 
 	 Firebase      	Since 2018     	█████████████████████░░░░   80.18%
 	 HTML     	Since 2018     	███████████████████████░░   91.98%
 	 CSS      	Since 2019     	█████████████░░░░░░░░░░░░   50.11%
 	 JavaScript     Since 2021     	███████░░░░░░░░░░░░░░░░░░   30.42%
-	 PHP		Since 2021     	██░░░░░░░░░░░░░░░░░░░░░░░   8.42%
+	 PHP		Since 2021     	██░░░░░░░░░░░░░░░░░░░░░░░   08.42%
+	 JSON		Since 2021     	██████████████████████░░░   08.42%
 ```
 
 
 
-# I’m interested in 👀
-
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Java ](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black) 
 
 
+<h2 align="center">I’m currently learning 🌱</h2>
+<p align="center">
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="hbappi" ><img/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="hbappi" ><img/>
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="hbappi" ><img/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="hbappi" ><img/>
+<img src="https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9" alt="hbappi" ><img/>
+</p>
+ 
+```css
+	 Flutter    	Since 2022    	█░░░░░░░░░░░░░░░░░░░░░░░░   04.01% 
+	 Node.js      	Since 2021     	██░░░░░░░░░░░░░░░░░░░░░░░   08.18%
+	 Python      	Since 2022     	░░░░░░░░░░░░░░░░░░░░░░░░░   02.11%
+	 Tensorflow     Since 2022     	░░░░░░░░░░░░░░░░░░░░░░░░░   00.11%
+	 Electron     	Since 2022     	█░░░░░░░░░░░░░░░░░░░░░░░░   05.11%
+```
 
+
+
+
+
+
+<h2 align="center">I’m interested in 👀</h2>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="hbappi" ><img/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="hbappi" ><img/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="hbappi" ><img/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="hbappi" ><img/>
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="hbappi" ><img/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="hbappi" ><img/>
+<img src="https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9" alt="hbappi" ><img/>
+</p>
+ 
+```css
+	 Android    	Since 2018    	███████████████░░░░░░░░░░   62.81% 
+	 Flutter    	Since 2022    	█░░░░░░░░░░░░░░░░░░░░░░░░   04.01% 
+	 Node.js      	Since 2021     	██░░░░░░░░░░░░░░░░░░░░░░░   08.18%
+	 Linux     	Since 2020     	█████████░░░░░░░░░░░░░░░░   31.21%
+	 Python      	Since 2022     	░░░░░░░░░░░░░░░░░░░░░░░░░   02.11%
+	 Tensorflow     Since 2022     	░░░░░░░░░░░░░░░░░░░░░░░░░   00.11%
+	 Electron     	Since 2022     	█░░░░░░░░░░░░░░░░░░░░░░░░   05.11%
+```
+
+
+
+
+<h2 align="center">Activities ▶️</h2>
 
 <p align="center">
 <a href="https://twitter.com/efortshub"><img alight="center" src="https://github-readme-twitter.gazf.vercel.app/api?id=efortshub&amp;layout=wide" alt="github-readme-twitter"></a>
 </p>
+
 
 <p><img width="100%" align="center" src="https://github-profile-trophy.vercel.app/?username=hbappi&theme=radical&count_private=true&show_owner=true&row=18&column=7" alt="hbappi" /></p>
 
 
 <p width="100%">
 
-<p><img align="center" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=hbappi&count_private=true&show_owner=true&show_icons=true&locale=en&theme=radical&langs_count=28&layout=compact" alt="hbappi" /><img align="right" width="53%" height="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=hbappi&count_private=true&show_owner=true&theme=radical" alt="hbappi" /></p>
 <p>
-	<img align="center" width="48%" src="https://github-readme-stats.vercel.app/api?username=hbappi&show_icons=true&theme=radical&count_private=true&show_owner=true&include_all_commits=true&locale=en" alt="hbappi" />
-	<img align="right" width="48%"  src="https://github-readme-streak-stats.herokuapp.com/?user=hbappi&theme=radical" alt="hbappi" />
+	<img align="center" width="49%" src="https://github-readme-stats.vercel.app/api?username=hbappi&show_icons=true&theme=radical&count_private=true&show_owner=true&include_all_commits=true&locale=en" alt="hbappi" />
+	<img align="right" width="49%"  src="https://github-readme-streak-stats.herokuapp.com/?user=hbappi&theme=radical" alt="hbappi" />
 </p>
 
+<p><img align="center" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs?username=hbappi&count_private=true&show_owner=true&show_icons=true&locale=en&theme=radical&langs_count=28&layout=wide" alt="hbappi" /><img align="right" width="63%" height="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=hbappi&count_private=true&show_owner=true&theme=radical" alt="hbappi" /></p>
 </p>
 
 
@@ -94,7 +165,7 @@ I’m <b>H. Bappi</b>
 <a href="https://github.com/hbappi"><img width="100%%" align="center" src="https://activity-graph.herokuapp.com/graph?username=hbappi&theme=dracula"></img></a>
 											
 
-<h2 align="center">Reach Me ☕</h2></a>
+<h2 align="center">Reach Me ☕</h2>
 <p align="center">
 	<a href="https://github.com/hbappi"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/hbappi"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
