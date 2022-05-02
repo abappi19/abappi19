@@ -155,14 +155,20 @@ src="https://img.shields.io/twitter/follow/efortshub?label=Follow%20me&style=soc
 	<img align="right" width="47%"  src="https://github-readme-streak-stats.herokuapp.com/?user=hbappi&theme=radical" alt="hbappi" />
 </p>
 
-<p><img align="center" width="33%" src="https://github-readme-stats.vercel.app/api/top-langs?username=hbappi&count_private=true&show_owner=true&show_icons=true&locale=en&theme=radical&langs_count=28&layout=wide" alt="hbappi" /><img align="right" width="61%" height="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=hbappi&count_private=true&show_owner=true&theme=radical" alt="hbappi" /></p>
+<p>
+<img align="center" width="61%" height="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=hbappi&count_private=true&show_owner=true&theme=radical" alt="hbappi" />
+
+<img align="center" width="37%" src="https://github-readme-stats.vercel.app/api/top-langs?username=hbappi&count_private=true&show_owner=true&show_icons=true&locale=en&theme=radical&langs_count=28&layout=wide" alt="hbappi" />
+
+</p>
+
 </p>
 
 
 
 
 
-<a href="https://github.com/hbappi"><img width="100%%" align="center" src="https://activity-graph.herokuapp.com/graph?username=hbappi&theme=dracula"></img></a>
+<a href="https://github.com/hbappi"><img width="100%" align="center" src="https://activity-graph.herokuapp.com/graph?username=hbappi&theme=dracula"></img></a>
 											
 
 <h2 align="center">Reach Me ☕</h2>
