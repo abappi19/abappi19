@@ -57,6 +57,11 @@ src="https://img.shields.io/twitter/follow/efortshub?label=Follow%20me&style=soc
 ```
 
 
+<h2 align="center">Want to know where do I live 🏠 ? Here we go:</h2>
+<a href="https://www.google.com/maps/place/25%C2%B034'46.8%22N+89%C2%B038'56.9%22E/@17.4948548,66.9733284,3z/data=!4m5!3m4!1s0x0:0x2bd5c9eed09f3ba4!8m2!3d25.579675!4d89.649135">
+<img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="hbappi" ><img/>
+</a>
+
 
 ![Programming Image](https://user-images.githubusercontent.com/53597251/160263007-518d72bd-b772-40a6-a817-25b540cce80c.gif)
 
