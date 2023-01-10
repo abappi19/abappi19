@@ -191,8 +191,8 @@ src="https://img.shields.io/twitter/follow/efortshub?label=Follow%20me&style=soc
 <p align="center">
 	<a href="https://efortshub.com"><img src="https://img.icons8.com/bubbles/50/000000/geography.png" alt="WebSite"/></a>
 	<a href="https://www.fiverr.com/efortshub"><img src="https://img.icons8.com/bubbles/50/000000/fiverr.png" alt="Fiverr"/></a>
-	<a href="https://www.upwork.com/freelancers/~01188d0fb269b51b7c"><img src="https://img.icons8.com/bubbles/50/000000/work.png" alt="UpWork"/></a>
-	<a href="https://www.freelancer.com/u/efortshub"><img src="https://img.icons8.com/bubbles/50/000000/workspace.png" alt="Freelancer"/></a>
+	<a href="https://www.upwork.com/freelancers/~01eb29eeb46a037af0"><img src="https://img.icons8.com/bubbles/50/000000/work.png" alt="UpWork"/></a>
+	<a href="https://www.freelancer.com/u/hbappibd"><img src="https://img.icons8.com/bubbles/50/000000/workspace.png" alt="Freelancer"/></a>
 	<a href="https://stackoverflow.com/users/12527080/efortshub"><img src="https://img.icons8.com/bubbles/50/000000/stack.png" alt="StackOverflow"/></a>
 	<a href="https://github.com/efortshub"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/company/efortshub"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
