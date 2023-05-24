@@ -92,7 +92,7 @@ src="https://img.shields.io/twitter/follow/efortshub?label=Follow%20me&style=soc
 	 HTML     	Since 2018     	███████████████████████░░   91.98%
 	 CSS      	Since 2019     	█████████████░░░░░░░░░░░░   50.11%
 	 JavaScript     Since 2021     	██████████████████████░░░   86.42%
-	 TypeScript     Since 202     	████████████████████░░░░░   77.11%
+	 TypeScript     Since 2022     	████████████████████░░░░░   77.11%
 	 PHP		Since 2021     	██░░░░░░░░░░░░░░░░░░░░░░░   08.42%
 	 JSON		Since 2021     	█████████████████████████   99.00%
 ```
@@ -132,7 +132,7 @@ src="https://img.shields.io/twitter/follow/efortshub?label=Follow%20me&style=soc
  
 ```css
 	 Android    	Since 2018    	███████████████░░░░░░░░░░   62.81% 
-	 TypeScript     Since 202     	████████████████████░░░░░   77.11%
+	 TypeScript     Since 2022    	████████████████████░░░░░   77.11%
 	 Node.js      	Since 2021     	██████████████████████░░░   86.18%
 	 Linux     	Since 2020     	███████████████████░░░░░░   71.21%
 	 Python      	Since 2022     	░░░░░░░░░░░░░░░░░░░░░░░░░   02.11%
