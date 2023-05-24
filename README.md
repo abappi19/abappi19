@@ -49,8 +49,9 @@ src="https://img.shields.io/twitter/follow/efortshub?label=Follow%20me&style=soc
 		}
 		
 		const IDEs = {
-			Android Studio : ["Android", "Flutter", "SQLITE"],
-			Visual Studio Code : ["HTML", "CSS", "JAVASCRIPT", "JAVA", "PYTHON", "PHP", "NODE.JS", "FLUTTER", "ELECTRON"]
+			Android_Studio : ["Android"],
+			Intellij_IDEA : ["Java", "JavaFX"],
+			Visual_Studio_Code : ["HTML", "CSS", "JAVASCRIPT", "TYPESCRIPT", "JAVA",  "PHP", "NODE.JS", "REACT NATIVE", "REACT", "ELECTRON"]
 		}
 	}
 
@@ -67,11 +68,13 @@ src="https://img.shields.io/twitter/follow/efortshub?label=Follow%20me&style=soc
 <p align="center">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="hbappi" ><img/>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="hbappi" ><img/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="hbappi" ><img/>
 <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="hbappi" ><img/>
 <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="hbappi" ><img/>
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="hbappi" ><img/>
 <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="hbappi" ><img/>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="hbappi" ><img/>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="hbappi" ><img/>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="hbappi" ><img/>
 <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" alt="hbappi" ><img/>
 </p>
@@ -79,13 +82,19 @@ src="https://img.shields.io/twitter/follow/efortshub?label=Follow%20me&style=soc
 ```python
 	 Java    	Since 2018    	███████████████████░░░░░░   75.91% 
 	 Android    	Since 2018    	███████████████░░░░░░░░░░   62.81% 
+	 Node.js      	Since 2021     	██████████████████████░░░   86.78%
+	 React Native 	Since 2021     	███████████████████░░░░░░   76.27%
+	 Expo      	Since 2021     	██████████████████░░░░░░░   71.44%
+	 Express      	Since 2021     	████████████████░░░░░░░░░   62.23%
+	 NGINX      	Since 2021     	██████████████████████░░░   86.18%
 	 SQLite    	Since 2019    	████████████████████░░░░░   78.11% 
 	 Firebase      	Since 2018     	█████████████████████░░░░   80.18%
 	 HTML     	Since 2018     	███████████████████████░░   91.98%
 	 CSS      	Since 2019     	█████████████░░░░░░░░░░░░   50.11%
-	 JavaScript     Since 2021     	███████░░░░░░░░░░░░░░░░░░   30.42%
+	 JavaScript     Since 2021     	██████████████████████░░░   86.42%
+	 TypeScript     Since 202     	████████████████████░░░░░   77.11%
 	 PHP		Since 2021     	██░░░░░░░░░░░░░░░░░░░░░░░   08.42%
-	 JSON		Since 2021     	██████████████████████░░░   08.42%
+	 JSON		Since 2021     	█████████████████████████   99.00%
 ```
 
 
@@ -94,19 +103,14 @@ src="https://img.shields.io/twitter/follow/efortshub?label=Follow%20me&style=soc
 
 <h2 align="center">I’m currently learning 🌱</h2>
 <p align="center">
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="hbappi" ><img/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="hbappi" ><img/>
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="hbappi" ><img/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="hbappi" ><img/>
 <img src="https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9" alt="hbappi" ><img/>
 </p>
  
 ```css
-	 Flutter    	Since 2022    	█░░░░░░░░░░░░░░░░░░░░░░░░   04.01% 
-	 Node.js      	Since 2021     	██░░░░░░░░░░░░░░░░░░░░░░░   08.18%
-	 Python      	Since 2022     	░░░░░░░░░░░░░░░░░░░░░░░░░   02.11%
-	 Tensorflow     Since 2022     	░░░░░░░░░░░░░░░░░░░░░░░░░   00.11%
-	 Electron     	Since 2022     	█░░░░░░░░░░░░░░░░░░░░░░░░   05.11%
+	 Node.js      	Since 2021     	████████████████░░░░░░░░░   58.18%
+	 Electron     	Since 2022     	███████████░░░░░░░░░░░░░░   41.11%
+	 JavaFX     	Since 2022     	████████░░░░░░░░░░░░░░░░░   32.11%
 ```
 
 
@@ -118,7 +122,7 @@ src="https://img.shields.io/twitter/follow/efortshub?label=Follow%20me&style=soc
 
 <p align="center">
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="hbappi" ><img/>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="hbappi" ><img/>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="hbappi" ><img/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="hbappi" ><img/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="hbappi" ><img/>
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="hbappi" ><img/>
@@ -128,12 +132,13 @@ src="https://img.shields.io/twitter/follow/efortshub?label=Follow%20me&style=soc
  
 ```css
 	 Android    	Since 2018    	███████████████░░░░░░░░░░   62.81% 
-	 Flutter    	Since 2022    	█░░░░░░░░░░░░░░░░░░░░░░░░   04.01% 
-	 Node.js      	Since 2021     	██░░░░░░░░░░░░░░░░░░░░░░░   08.18%
-	 Linux     	Since 2020     	█████████░░░░░░░░░░░░░░░░   31.21%
+	 TypeScript     Since 202     	████████████████████░░░░░   77.11%
+	 Node.js      	Since 2021     	██████████████████████░░░   86.18%
+	 Linux     	Since 2020     	███████████████████░░░░░░   71.21%
 	 Python      	Since 2022     	░░░░░░░░░░░░░░░░░░░░░░░░░   02.11%
 	 Tensorflow     Since 2022     	░░░░░░░░░░░░░░░░░░░░░░░░░   00.11%
-	 Electron     	Since 2022     	█░░░░░░░░░░░░░░░░░░░░░░░░   05.11%
+	 Electron     	Since 2022     	███████████░░░░░░░░░░░░░░   41.11%
+	 JavaFX     	Since 2022     	████████░░░░░░░░░░░░░░░░░   32.11%
 ```
 
 
