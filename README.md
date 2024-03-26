@@ -107,13 +107,13 @@ src="https://img.shields.io/twitter/follow/efortshub?label=Follow%20me&style=soc
 
 
 
-
+<!-- 
 
 <h2 align="center">I’m currently learning 🌱</h2>
-<!-- <p align="center">
+<p align="center">
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="hbappi" ><img/>
 <img src="https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9" alt="hbappi" ><img/>
-</p> -->
+</p>
  
 ```css
 	 Node.js      	Since 2021     	████████████████░░░░░░░░░   58.18%
@@ -121,7 +121,7 @@ src="https://img.shields.io/twitter/follow/efortshub?label=Follow%20me&style=soc
 	 JavaFX     	Since 2022     	████████░░░░░░░░░░░░░░░░░   32.11%
 ```
 
-
+ -->
 
 
 
