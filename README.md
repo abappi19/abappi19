@@ -11,20 +11,25 @@ src="https://img.shields.io/twitter/follow/efortshub?label=Follow%20me&style=soc
 	{
 	 "Name":{
 		   "name" :" Md. Asadujjaman Bappi ",
-		   "nickName" :" H. Bappi ",
-		   "surname" :" Addicted Programmer "
+		   "nickName" :" Muhammad Bappi ",
+		   "tag" :" Addicted Programmer "
 		  },
 		  
 	 "Education":[
 	 		{
-			  "DEGREE": "S.S.C"
+			  "DEGREE": "S.S.C",
 			  "YEAR": "2019",
 			  "SECTION": "SCIENCE"
 			},	
 			{
-			  "DEGREE":"H.S.C"
+			  "DEGREE":"H.S.C",
 			  "YEAR": "2021",
 			  "SECTION": "HUMANITY"
+			},
+			{
+			  "DEGREE": "DIPLOMA",
+			  "YEAR": "2023 - PRESENT",
+			  "SECTION": "COMPUTER SCIENCE"
 			}
 	 	      ]
 	}
@@ -44,14 +49,14 @@ src="https://img.shields.io/twitter/follow/efortshub?label=Follow%20me&style=soc
 ```javascript
 	function tech(){
 		const os = {
-			pc:	"Linux, Linux mint",
+			pc:	["LINUX, UBUNTU", "WINDOWS 11", "MAC OS SONOMA"],
 			mobile:	"Android", "T9"
 		}
 		
 		const IDEs = {
-			Android_Studio : ["Android"],
-			Intellij_IDEA : ["Java", "JavaFX"],
-			Visual_Studio_Code : ["HTML", "CSS", "JAVASCRIPT", "TYPESCRIPT", "JAVA",  "PHP", "NODE.JS", "REACT NATIVE", "REACT", "ELECTRON"]
+			Android_Studio : ["ANDROID", "FLUTTER"],
+			Intellij_IDEA : ["Java", "JavaFX", "Vert.x"],
+			Visual_Studio_Code : ["HTML", "CSS", "JAVASCRIPT", "TYPESCRIPT", "JAVA",  "PHP", "NODE.JS", "REACT NATIVE", "REACT", "ELECTRON", "FLUTTER"]
 		}
 	}
 
@@ -81,20 +86,23 @@ src="https://img.shields.io/twitter/follow/efortshub?label=Follow%20me&style=soc
  
 ```python
 	 Java    	Since 2018    	███████████████████░░░░░░   75.91% 
-	 Android    	Since 2018    	███████████████░░░░░░░░░░   62.81% 
-	 Node.js      	Since 2021     	██████████████████████░░░   86.78%
+	 Android    	Since 2018    	█████████████████████░░░░   82.81% 
 	 React Native 	Since 2021     	███████████████████░░░░░░   76.27%
-	 Expo      	Since 2021     	██████████████████░░░░░░░   71.44%
+	 Expo      	Since 2021     	██████████████████████░░░   88.44%
+	 Flutter 	Since 2023     	██████████████░░░░░░░░░░░   56.27%
+	 Node.js      	Since 2021     	██████████████████████░░░   86.78%
 	 Express      	Since 2021     	████████████████░░░░░░░░░   62.23%
 	 NGINX      	Since 2021     	██████████████████████░░░   86.18%
-	 SQLite    	Since 2019    	████████████████████░░░░░   78.11% 
 	 Firebase      	Since 2018     	█████████████████████░░░░   80.18%
 	 HTML     	Since 2018     	███████████████████████░░   91.98%
 	 CSS      	Since 2019     	█████████████░░░░░░░░░░░░   50.11%
 	 JavaScript     Since 2021     	██████████████████████░░░   86.42%
 	 TypeScript     Since 2022     	████████████████████░░░░░   77.11%
-	 PHP		Since 2021     	██░░░░░░░░░░░░░░░░░░░░░░░   08.42%
+	 PHP		Since 2021     	█████████████████░░░░░░░░   69.42%
 	 JSON		Since 2021     	█████████████████████████   99.00%
+	 SQLite    	Since 2019    	████████████████████░░░░░   78.11% 
+	 MySQL    	Since 2019    	███████████████░░░░░░░░░░   58.11% 
+	 PostgreSQL    	Since 2023    	█████████████░░░░░░░░░░░░   50.11% 
 ```
 
 
