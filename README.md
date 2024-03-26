@@ -70,7 +70,7 @@ src="https://img.shields.io/twitter/follow/efortshub?label=Follow%20me&style=soc
 
 
 <h2 align="center">I have experience on 🏅</h2>
-<p align="center">
+<!-- <p align="center">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="hbappi" ><img/>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="hbappi" ><img/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="hbappi" ><img/>
@@ -82,7 +82,7 @@ src="https://img.shields.io/twitter/follow/efortshub?label=Follow%20me&style=soc
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="hbappi" ><img/>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="hbappi" ><img/>
 <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" alt="hbappi" ><img/>
-</p>
+</p> -->
  
 ```python
 	 Java    	Since 2018    	███████████████████░░░░░░   75.91% 
@@ -110,10 +110,10 @@ src="https://img.shields.io/twitter/follow/efortshub?label=Follow%20me&style=soc
 
 
 <h2 align="center">I’m currently learning 🌱</h2>
-<p align="center">
+<!-- <p align="center">
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="hbappi" ><img/>
 <img src="https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9" alt="hbappi" ><img/>
-</p>
+</p> -->
  
 ```css
 	 Node.js      	Since 2021     	████████████████░░░░░░░░░   58.18%
@@ -128,7 +128,7 @@ src="https://img.shields.io/twitter/follow/efortshub?label=Follow%20me&style=soc
 
 <h2 align="center">I’m interested in 👀</h2>
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="hbappi" ><img/>
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="hbappi" ><img/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="hbappi" ><img/>
@@ -136,7 +136,7 @@ src="https://img.shields.io/twitter/follow/efortshub?label=Follow%20me&style=soc
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="hbappi" ><img/>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="hbappi" ><img/>
 <img src="https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9" alt="hbappi" ><img/>
-</p>
+</p> -->
  
 ```css
 	 Android    	Since 2018    	███████████████░░░░░░░░░░   62.81% 
