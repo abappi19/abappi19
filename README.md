@@ -221,15 +221,10 @@ I am committed to staying at the forefront of technology, leveraging these skill
 
 
 <img width="100%" align="center" src="https://wakatime.com/share/@hbappi/759a0d9e-d014-4357-bc86-150edf91e302.svg" alt="hbappi" />
-<p width="100%" align="center">
-	
-</p>
-<img width="45%" align="center" src="https://wakatime.com/share/@hbappi/c72c8c84-e437-483a-9cc3-e860cfab3763.svg" alt="hbappi" />
-<img width="45%" align="center" src="https://wakatime.com/share/@hbappi/a7c5ad8d-28a7-460f-8973-5e9e7e6fffb2.svg" alt="hbappi" />
-<p width="100%" align="center">
-	<img width="45%" align="center" src="https://wakatime.com/share/@hbappi/ee224123-72a8-40db-b814-a915324418a5.svg" alt="hbappi" />
-	<img width="45%" align="center" src="https://wakatime.com/share/@hbappi/2eb9c8bb-7ec6-4e20-a344-30bdbaf43583.svg" alt="hbappi" />
-</p>
+<img width="100%" align="center" src="https://wakatime.com/share/@hbappi/c72c8c84-e437-483a-9cc3-e860cfab3763.svg" alt="hbappi" />
+<img width="100%" align="center" src="https://wakatime.com/share/@hbappi/a7c5ad8d-28a7-460f-8973-5e9e7e6fffb2.svg" alt="hbappi" />
+<img width="100%" align="center" src="https://wakatime.com/share/@hbappi/ee224123-72a8-40db-b814-a915324418a5.svg" alt="hbappi" />
+<img width="100%" align="center" src="https://wakatime.com/share/@hbappi/2eb9c8bb-7ec6-4e20-a344-30bdbaf43583.svg" alt="hbappi" />
 
 
 
@@ -247,15 +242,14 @@ I am committed to staying at the forefront of technology, leveraging these skill
 
 
 <img width="100%" align="center" src="https://wakatime.com/share/@hbappi/973a49cb-e625-4de1-9193-1423ec93126e.svg" alt="hbappi" />
-<img  width="100%" align="center" src="https://wakatime.com/share/@hbappi/9223b767-476d-4996-bf4f-ffb9f22b676b.svg" alt="hbappi" />
-<p width="100%" align="center">
-	<img width="45%" align="center" src="https://wakatime.com/share/@hbappi/12cfb0d2-0673-46c0-9f65-73bfa665148d.svg" alt="hbappi" />
-	<img width="45%" align="center" src="https://wakatime.com/share/@hbappi/e589b179-2575-4f6f-aa4f-0de49830a1c8.svg" alt="hbappi" />
-</p>
-<p width="100%" align="center">
-	<img width="45%" align="center" src="https://wakatime.com/share/@hbappi/0bda0042-c36f-4cf0-adcc-832db1334696.svg" alt="hbappi" />
-	<img width="45%" align="center" src="https://wakatime.com/share/@hbappi/cf26b9f0-be52-4488-8de6-d232d63f72f6.svg" alt="hbappi" />	
-</p>
+<section>
+	<img  width="100%" align="center" src="https://wakatime.com/share/@hbappi/9223b767-476d-4996-bf4f-ffb9f22b676b.svg" alt="hbappi" />
+</section>
+<img width="100%" align="center" src="https://wakatime.com/share/@hbappi/12cfb0d2-0673-46c0-9f65-73bfa665148d.svg" alt="hbappi" />
+<img width="100%" align="center" src="https://wakatime.com/share/@hbappi/e589b179-2575-4f6f-aa4f-0de49830a1c8.svg" alt="hbappi" />
+<img width="100%" align="center" src="https://wakatime.com/share/@hbappi/0bda0042-c36f-4cf0-adcc-832db1334696.svg" alt="hbappi" />
+<img width="100%" align="center" src="https://wakatime.com/share/@hbappi/cf26b9f0-be52-4488-8de6-d232d63f72f6.svg" alt="hbappi" />
+
 
 <!--
 <p><img width="100%" align="center" src="https://github-profile-trophy.vercel.app/?username=hbappi&theme=radical&count_private=true&show_owner=true&row=18&column=7" alt="hbappi" /></p>
