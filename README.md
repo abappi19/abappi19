@@ -1,4 +1,4 @@
-<h1 align="center"> Assalamu Alaikum, How are you?</h1>
+<h1 align="center"> Assalamu Alaikum</h1>
 
 
 <p align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=hbappi" alt="" /> <img src="https://wakatime.com/badge/user/cb82e44f-1307-4fe6-8653-ef574390e173.svg" alt="hbappi" /> <img
@@ -6,6 +6,54 @@ src="https://img.shields.io/github/followers/hbappi?style=social" alt="hbappi" /
 src="https://img.shields.io/github/last-commit/hbappi/hbappi" alt="hbappi" /> <img
 src="https://img.shields.io/twitter/follow/efortshub?label=Follow%20me&style=social" alt="efortshub" /> </p>
 
+
+I am Md Asadujjaman Bappi (Muhammad Bappi). 
+
+A seasoned full-stack developer with a diverse skill set, proficient in a wide range of technologies. My expertise spans across native mobile app development, cross-platform frameworks, web technologies, and backend systems, enabling me to deliver comprehensive and cutting-edge solutions.
+
+Key Competencies:
+
+- Mobile App Development:
+
+  - Native Android App Development using Java and Kotlin.
+  - Flutter for cross-platform mobile app development.
+  - React Native for creating efficient and unified experiences across Android and iOS.
+    
+- Backend Technologies:
+  - Java Vert.x for high-performance and scalable backend solutions.
+  - Node.js for server-side development.
+  - PHP Laravel for robust and elegant backend architecture.
+  - Firebase and Supabase for cloud-based services.
+ 
+- Database Technologies:
+  - MySQL
+  - PostgreSQL (Preferred) 
+
+
+- Web Technologies:
+  - ReactJS for interactive and dynamic web applications.
+  - NextJS for server-side rendering and optimized React applications.
+  - Electron for cross-platform desktop applications.
+  - JavaFX for rich, desktop-based user interfaces.
+
+
+- Real-Time Communication:
+  - WebRTC for real-time communication in web applications.
+  - RTMP and RTSP for streaming protocols.
+
+
+- Architectural Patterns:
+  - MVVM (Model-View-ViewModel)
+  - MVI (Model-View-Intent)
+  - MVC (Model-View-Controller)
+  - MVP (Model-View-Presenter)
+  - BloC (Business Logic Component)
+  - Redux (For React / React Native)
+   
+My proficiency extends to integrating Firebase and Supabase for efficient cloud-based data management, ensuring secure and seamless interactions. Additionally, I have hands-on experience with Webrtc for real-time communication and streaming protocols like RTMP and RTSP.
+
+I am committed to staying at the forefront of technology, leveraging these skills to provide innovative solutions tailored to your unique needs. Let's discuss how I can contribute to the success of your projects and bring your ideas to life.
+<!--
 
 ```json
 	{
@@ -63,14 +111,14 @@ src="https://img.shields.io/twitter/follow/efortshub?label=Follow%20me&style=soc
 ```
 
 
-
+-->
 
 ![Programming Image](https://user-images.githubusercontent.com/53597251/160263007-518d72bd-b772-40a6-a817-25b540cce80c.gif)
 
-
+<!--
 
 <h2 align="center">I have experience on 🏅</h2>
-<!-- <p align="center">
+ <p align="center">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="hbappi" ><img/>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="hbappi" ><img/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="hbappi" ><img/>
@@ -82,7 +130,7 @@ src="https://img.shields.io/twitter/follow/efortshub?label=Follow%20me&style=soc
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="hbappi" ><img/>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="hbappi" ><img/>
 <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" alt="hbappi" ><img/>
-</p> -->
+</p>
  
 ```python
 	 Java    	Since 2018    	███████████████████░░░░░░   75.91% 
@@ -121,7 +169,7 @@ src="https://img.shields.io/twitter/follow/efortshub?label=Follow%20me&style=soc
 	 JavaFX     	Since 2022     	████████░░░░░░░░░░░░░░░░░   32.11%
 ```
 
- -->
+ 
 
 
 
@@ -136,7 +184,7 @@ src="https://img.shields.io/twitter/follow/efortshub?label=Follow%20me&style=soc
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="hbappi" ><img/>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="hbappi" ><img/>
 <img src="https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9" alt="hbappi" ><img/>
-</p> -->
+</p> 
  
 ```css
 	 Android    	Since 2018    	███████████████░░░░░░░░░░   62.81% 
@@ -149,8 +197,16 @@ src="https://img.shields.io/twitter/follow/efortshub?label=Follow%20me&style=soc
 	 JavaFX     	Since 2022     	████████░░░░░░░░░░░░░░░░░   32.11%
 ```
 
+-->
+
+<pre>
 
 
+
+
+	
+	
+</pre>
 <pre>
 
 
