@@ -152,18 +152,37 @@ src="https://img.shields.io/twitter/follow/efortshub?label=Follow%20me&style=soc
 
 
 
-<h2 align="center">Activities ▶️</h2>
-
-<p align="center">
-<a href="https://twitter.com/efortshub"><img alight="center" src="https://github-readme-twitter.gazf.vercel.app/api?id=efortshub&amp;layout=wide" alt="github-readme-twitter"></a>
-</p>
+<h2 align="center">Activities ▶️ (Last 30 Days)</h2>
+<p align="center" color="#888">[Note: Showing from wakatime. (tasks on remote server eg: ssh, rdp are not included. )]</p>
 
 
+<img width="100%" align="center" src="https://wakatime.com/share/@hbappi/759a0d9e-d014-4357-bc86-150edf91e302.svg" alt="hbappi" />
+<img width="100%" align="center" src="https://wakatime.com/share/@hbappi/c72c8c84-e437-483a-9cc3-e860cfab3763.svg" alt="hbappi" />
+<img width="100%" align="center" src="https://wakatime.com/share/@hbappi/a7c5ad8d-28a7-460f-8973-5e9e7e6fffb2.svg" alt="hbappi" />
+<img width="100%" align="center" src="https://wakatime.com/share/@hbappi/ee224123-72a8-40db-b814-a915324418a5.svg" alt="hbappi" />
+<img width="100%" align="center" src="https://wakatime.com/share/@hbappi/2eb9c8bb-7ec6-4e20-a344-30bdbaf43583.svg" alt="hbappi" />
+
+
+
+
+<h2 align="center">Activities ▶️ (Life Time)</h2>
+<p align="center" color="#888">[Note: Showing from wakatime. (tasks on remote server eg: ssh, rdp are not included. )]</p>
+
+
+<img width="100%" align="center" src="https://wakatime.com/share/@hbappi/102be041-79b1-4dee-8311-89ba891f9e9e.svg" alt="hbappi" />
+<img width="100%" align="center" src="https://wakatime.com/share/@hbappi/d09ac2d4-27e0-4ac6-8e93-e02ccdfe0e1f.svg" alt="hbappi" />
+<img width="100%" align="center" src="https://wakatime.com/share/@hbappi/12cfb0d2-0673-46c0-9f65-73bfa665148d.svg" alt="hbappi" />
+<img width="100%" align="center" src="https://wakatime.com/share/@hbappi/e589b179-2575-4f6f-aa4f-0de49830a1c8.svg" alt="hbappi" />
+<img width="100%" align="center" src="https://wakatime.com/share/@hbappi/0bda0042-c36f-4cf0-adcc-832db1334696.svg" alt="hbappi" />
+<img width="100%" align="center" src="https://wakatime.com/share/@hbappi/cf26b9f0-be52-4488-8de6-d232d63f72f6.svg" alt="hbappi" />
+
+
+<!--
 <p><img width="100%" align="center" src="https://github-profile-trophy.vercel.app/?username=hbappi&theme=radical&count_private=true&show_owner=true&row=18&column=7" alt="hbappi" /></p>
+-->
 
-
+<!--
 <p width="100%">
-
 <p>
 	<img align="center" width="47%" src="https://github-readme-stats.vercel.app/api?username=hbappi&show_icons=true&theme=radical&count_private=true&show_owner=true&include_all_commits=true&locale=en" alt="hbappi" />
 	<img align="right" width="47%"  src="https://github-readme-streak-stats.herokuapp.com/?user=hbappi&theme=radical" alt="hbappi" />
@@ -175,15 +194,16 @@ src="https://img.shields.io/twitter/follow/efortshub?label=Follow%20me&style=soc
 <img align="center" width="37%" src="https://github-readme-stats.vercel.app/api/top-langs?username=hbappi&count_private=true&show_owner=true&show_icons=true&locale=en&theme=radical&langs_count=28&layout=wide" alt="hbappi" />
 
 </p>
-
 </p>
 
+-->
 
 
 
+<!--
 
 <a href="https://github.com/hbappi"><img width="100%" align="center" src="https://activity-graph.herokuapp.com/graph?username=hbappi&theme=dracula"></img></a>
-											
+-->											
 
 <h2 align="center">Reach Me ☕</h2>
 <p align="center">
