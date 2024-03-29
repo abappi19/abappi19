@@ -151,9 +151,17 @@ src="https://img.shields.io/twitter/follow/efortshub?label=Follow%20me&style=soc
 
 
 
+<pre>
 
-<h2 align="center">Activities ▶️ (Last 30 Days)</h2>
-<p align="center" color="#888">[Note: Showing from wakatime. (tasks on remote server eg: ssh, rdp are not included. )]</p>
+
+
+
+	
+	
+</pre>
+
+<h1 xalign="center">Activities ▶️ (Last 30 Days)</h1>
+<p xalign="center" color="#888">[Note: Showing from wakatime. (tasks on remote server eg: ssh, rdp are not included. )]</p>
 
 
 <img width="100%" align="center" src="https://wakatime.com/share/@hbappi/759a0d9e-d014-4357-bc86-150edf91e302.svg" alt="hbappi" />
@@ -164,13 +172,23 @@ src="https://img.shields.io/twitter/follow/efortshub?label=Follow%20me&style=soc
 
 
 
-
-<h2 align="center">Activities ▶️ (Life Time)</h2>
-<p align="center" color="#888">[Note: Showing from wakatime. (tasks on remote server eg: ssh, rdp are not included. )]</p>
+<pre>
 
 
-<img width="100%" align="center" src="https://wakatime.com/share/@hbappi/102be041-79b1-4dee-8311-89ba891f9e9e.svg" alt="hbappi" />
-<img width="100%" align="center" src="https://wakatime.com/share/@hbappi/d09ac2d4-27e0-4ac6-8e93-e02ccdfe0e1f.svg" alt="hbappi" />
+
+
+	
+	
+</pre>
+
+<h1 xalign="center">Activities ▶️ (Life Time)</h1>
+<p xalign="center" color="#888">[Note: Showing from wakatime. (tasks on remote server eg: ssh, rdp are not included. )]</p>
+
+
+<img width="100%" align="center" src="https://wakatime.com/share/@hbappi/973a49cb-e625-4de1-9193-1423ec93126e.svg" alt="hbappi" />
+<section>
+	<img  width="100%" align="center" src="https://wakatime.com/share/@hbappi/9223b767-476d-4996-bf4f-ffb9f22b676b.svg" alt="hbappi" />
+</section>
 <img width="100%" align="center" src="https://wakatime.com/share/@hbappi/12cfb0d2-0673-46c0-9f65-73bfa665148d.svg" alt="hbappi" />
 <img width="100%" align="center" src="https://wakatime.com/share/@hbappi/e589b179-2575-4f6f-aa4f-0de49830a1c8.svg" alt="hbappi" />
 <img width="100%" align="center" src="https://wakatime.com/share/@hbappi/0bda0042-c36f-4cf0-adcc-832db1334696.svg" alt="hbappi" />
