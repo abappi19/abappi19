@@ -10,7 +10,7 @@ src="https://img.shields.io/twitter/follow/efortshub?label=Follow%20me&style=soc
 I am Md Asadujjaman Bappi (Muhammad Bappi). 
 
 A seasoned full-stack developer with a diverse skill set, proficient in a wide range of technologies. My expertise spans across native mobile app development, cross-platform frameworks, web technologies, and backend systems, enabling me to deliver comprehensive and cutting-edge solutions.
-<!--
+
 Key Competencies:
 
 - Mobile App Development:
@@ -51,7 +51,7 @@ Key Competencies:
   - Redux (For React / React Native)
    
 My proficiency extends to integrating Firebase and Supabase for efficient cloud-based data management, ensuring secure and seamless interactions. Additionally, I have hands-on experience with Webrtc for real-time communication and streaming protocols like RTMP and RTSP.
--->
+
 I am committed to staying at the forefront of technology, leveraging these skills to provide innovative solutions tailored to your unique needs. Let's discuss how I can contribute to the success of your projects and bring your ideas to life.
 <!--
 
