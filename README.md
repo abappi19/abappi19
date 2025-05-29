@@ -223,9 +223,9 @@ Feel free to connect — I’m always open to collaborating on exciting projects
 <p xalign="center" color="#888">[Note: Showing from wakatime. (tasks on remote server eg: ssh, rdp are not included. )]</p>
 
 
-<img width="100%" align="center" src="https://wakatime.com/share/@abappi19/535cc6db-7c00-4371-8fae-b1fcfdd3c9b9.svg" alt="abappi19" /> 
 <img width="100%" align="center" src="https://wakatime.com/share/@abappi19/973a49cb-e625-4de1-9193-1423ec93126e.svg" alt="abappi19" /> 
 <img  width="100%" align="center" src="https://wakatime.com/share/@abappi19/9223b767-476d-4996-bf4f-ffb9f22b676b.svg" alt="abappi19" />
+<!-- <img width="100%" align="center" src="https://wakatime.com/share/@abappi19/535cc6db-7c00-4371-8fae-b1fcfdd3c9b9.svg" alt="abappi19" /> -->
 <img width="100%" align="center" src="https://wakatime.com/share/@abappi19/12cfb0d2-0673-46c0-9f65-73bfa665148d.svg" alt="abappi19" />
 <img width="100%" align="center" src="https://wakatime.com/share/@abappi19/e589b179-2575-4f6f-aa4f-0de49830a1c8.svg" alt="abappi19" />
 <img width="100%" align="center" src="https://wakatime.com/share/@abappi19/0bda0042-c36f-4cf0-adcc-832db1334696.svg" alt="abappi19" />
@@ -262,11 +262,12 @@ Feel free to connect — I’m always open to collaborating on exciting projects
 
 <h2 align="center">Reach Me ☕</h2>
 <p align="center">
+	<a href="https://abappi19.github.io"><img src="https://img.icons8.com/bubbles/50/000000/user-male.png" alt="Portfolio"/></a>
 	<a href="https://github.com/abappi19"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/abappi19"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://www.facebook.com/abappi19"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
 	<a href="https://g.dev/abappi19"><img src="https://img.icons8.com/bubbles/50/000000/google-logo.png" alt="Google"/></a>
-	<a href="https://leetcode.com/u/abappi19"><img src="https://img.icons8.com/bubbles/50/000000/leet-code.png" alt="LeetCode"/></a>
+	<a href="https://leetcode.com/u/abappi19"><img src="https://img.icons8.com/bubbles/50/000000/chevron-left.png" alt="LeetCode"/></a>
 	<a href="mailto:abappi2019@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/email.png" alt="E-Mail"/></a>
 </p>
 
