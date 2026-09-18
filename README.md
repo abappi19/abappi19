@@ -1,5 +1,11 @@
 <h1 align="center">Assalamu Alaikum 👋</h1>
 
+
+<p align="center">
+	<a href="https://abappi19.github.io"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abappi19&theme=transparent&name=Md+Asadujjaman+Bappi" alt="Github Stats"/></a>
+</p>
+
+
 <p align="center">
 
   <img src="https://img.shields.io/github/stars/abappi19?style=social" alt="Stars" />
@@ -13,12 +19,6 @@
 Specialized in **native Android** and **React Native (Expo)** development with flexible architecture patterns. Strong web development skills with **React** and **Next.js**. Backend experience includes building APIs with **Express.js**, **NestJS**, and **Fastify**, plus implementing real-time features like video calling and live data synchronization.
 
 Currently at **TulipTech** as a **Software Engineer**, recognized for resolving critical bugs, providing technical guidance for important decisions, and collaborating effectively with cross-functional teams to deliver quality solutions.
-
-
-<p align="center">
-	<a href="https://abappi19.github.io"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abappi19&theme=transparent&name=Md+Asadujjaman+Bappi" alt="Github Stats"/></a>
-</p>
-
 
 
 <h2 align="center">Reach Me ☕</h2>
