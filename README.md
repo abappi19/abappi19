@@ -14,6 +14,13 @@ Specialized in **native Android** and **React Native (Expo)** development with f
 
 Currently at **TulipTech** as a **Software Engineer**, recognized for resolving critical bugs, providing technical guidance for important decisions, and collaborating effectively with cross-functional teams to deliver quality solutions.
 
+
+<p align="center">
+	<a href="https://abappi19.github.io"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abappi19&theme=transparent&name=Md+Asadujjaman+Bappi" alt="Github Stats"/></a>
+</p>
+
+
+
 <h2 align="center">Reach Me ☕</h2>
 <p align="center">
 	<a href="https://abappi19.github.io"><img src="https://img.icons8.com/bubbles/50/000000/user-male.png" alt="Portfolio"/></a>
@@ -24,7 +31,6 @@ Currently at **TulipTech** as a **Software Engineer**, recognized for resolving 
 	<a href="https://leetcode.com/u/abappi19"><img src="https://img.icons8.com/bubbles/50/000000/chevron-left.png" alt="LeetCode"/></a>
 	<a href="mailto:abappi2019@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/email.png" alt="E-Mail"/></a>
 </p>
-
 
 
 <p align="center">
