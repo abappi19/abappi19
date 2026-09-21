@@ -14,11 +14,13 @@
   <img src="https://img.shields.io/twitter/follow/abappi19?label=Follow%20me&style=social" alt="Twitter Follow" />
 </p>
 
-**Mobile-focused** software engineer with strong full-stack capabilities. I've delivered applications across **gaming**, **education**, **social media**, **real estate**, and **live streaming** — taking projects from concept to production.
+I'm a **mobile-focused** software engineer who is at home across the full stack. I've shipped production apps in **HealthTech**, **EdTech**, **MediaTech**, **E-commerce**, **PropTech**, **Social**, and **RetailTech**, and taken them from an idea to a release on iOS, Android, and web.
 
-Specialized in **native Android** and **React Native (Expo)** development with flexible architecture patterns. Strong web development skills with **React** and **Next.js**. Backend experience includes building APIs with **Express.js**, **NestJS**, and **Fastify**, plus implementing real-time features like video calling and live data synchronization.
+Most of my work is **native Android** and **React Native (Expo)**: **offline-first** architecture, **native SDK / hardware integration**, and the whole delivery pipeline, from **EAS** builds to OTA updates to store publishing. On the web I use **React** and **Next.js** (App Router, ISR/SSR), with type-safe backends in **NestJS**, **Fastify**, **tRPC**, and **Drizzle**. When something has to be real-time, I reach for **Supabase**, **Socket.IO**, or **WebRTC**.
 
-Currently at **TulipTech** as a **Software Engineer**, recognized for resolving critical bugs, providing technical guidance for important decisions, and collaborating effectively with cross-functional teams to deliver quality solutions.
+Right now I'm at **Tulip Tech** as a **Software Engineer**. I designed the mobile app for a healthcare care-management platform, and shipped OTT streaming, pharmacy POS, and marketplace products. I've been recognized there for fixing the critical bugs, guiding the technical calls that mattered, and working across teams to get things shipped.
+
+I also build and maintain **AxonPack**, an open source library ecosystem for React Native and Expo: <https://axonpack.github.io>
 
 
 <h2 align="center">Reach Me ☕</h2>
